@@ -2,7 +2,9 @@
 
 Website source for the ASCE Engineering Knowledge-a-Thon: a challenge to turn civil and environmental engineering assets into verifiable, reusable, and governable knowledge products for people and AI systems.
 
-**Target website:** [asce-tokenization.github.io/asce-knowledgeathon](https://asce-tokenization.github.io/asce-knowledgeathon/) — deployment pending verification.
+**Website:** [asce-tokenization.github.io/asce-knowledgeathon](https://asce-tokenization.github.io/asce-knowledgeathon/)
+
+Published on GitHub Pages on October 30, 2026, from `main` / `/(root)` with HTTPS enforced.
 
 **Contact:** [asce.tokenization@gmail.com](mailto:asce.tokenization@gmail.com)
 
