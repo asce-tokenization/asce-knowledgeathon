@@ -1,0 +1,36 @@
+ASCE ENGINEERING KNOWLEDGE-A-THON
+Submission preparation checklist
+
+Final schedule and rules will be confirmed by the organizing committee.
+Contact: asce.tokenization@gmail.com
+
+TEAM AND SCOPE
+[ ] Choose one primary challenge pathway; other pathways may also inform the work.
+[ ] Identify the civil or environmental engineering domain and real problem.
+[ ] Confirm one designated team lead and at least one ASCE member on the team.
+
+REQUIRED MATERIALS
+[ ] Concise project brief.
+[ ] Concrete core artifact or prototype with clear review instructions.
+[ ] Trust and reuse explanation: provenance, integrity, applicability, limitations, human review, reuse.
+[ ] Ecosystem growth statement connecting beyond the immediate project.
+[ ] Practical demonstration video no longer than 10 minutes; slides alone are insufficient.
+[ ] AI-use disclosure with tools, purposes, affected work, validation, and limitations.
+[ ] Licensing and ownership note with permissions, attribution, and reuse restrictions.
+
+LINKS AND ACCESS
+[ ] Organize files in a dedicated GitHub repository or Google Drive folder.
+[ ] Include a README or index mapping all submission components.
+[ ] Provide a YouTube or Google Drive link to the demonstration video.
+[ ] Verify all links and video playback in a signed-out/private browser.
+[ ] Ensure reviewers have view access to every required component.
+[ ] Contact the committee in advance if private review access is needed.
+[ ] Remove confidential, unrelated, or unauthorized material from the shared folder.
+[ ] Identify a stable release, commit, or version where practical.
+
+FINAL CHECK
+[ ] Review the published rules and confirmed deadline on the event website.
+[ ] Submit the required links through the event submission form.
+[ ] Keep a copy of the links and submitted information.
+
+This checklist is a preparation tool. Completing it does not submit your project.
